@@ -1,0 +1,12 @@
+[submodule "kvmi-armv8"]
+	path = kvmi-armv8
+	url = https://github.com/thomasdangl/kvmi-armv8.git
+[submodule "qemu-armv8"]
+	path = qemu-armv8
+	url = https://github.com/thomasdangl/qemu-armv8.git
+[submodule "libkvmi-armv8"]
+	path = libkvmi-armv8
+	url = https://github.com/thomasdangl/libkvmi-armv8.git
+[submodule "libvmi-armv8"]
+	path = libvmi-armv8
+	url = https://github.com/thomasdangl/libvmi-armv8.git
